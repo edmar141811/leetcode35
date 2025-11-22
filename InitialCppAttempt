@@ -1,3 +1,13 @@
+/*
+Runtime 0ms
+Beats 100.00%
+
+Memory 13.68 MB
+Beats 41.83%
+
+I think the memory might be a little inaccurate, but the memory space is overall well
+Will probably attempt in Java later
+*/
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
